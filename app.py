@@ -14,7 +14,7 @@ st.set_page_config(page_title="Smart Depression-Aware Chatbot", layout="centered
 #client = OpenAI(api_key="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")  # replace with your actual key
 
 client = OpenAI(
-    api_key="3bea1b3d2487149914651210dccff508b06e18b53831097e209b983bce20d731",
+    api_key="vvv",
     base_url="https://api.together.xyz/v1"
 )
 
